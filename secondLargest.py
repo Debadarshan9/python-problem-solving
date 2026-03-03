@@ -31,5 +31,4 @@ unique = sorted(set(arr))
 if len(unique) < 2:
     print("No second largest no is present.")
 else:
-
     print("Second largest number is ", unique[-2])
